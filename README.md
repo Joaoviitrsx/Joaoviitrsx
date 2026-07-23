@@ -1,40 +1,26 @@
-# Hey there! 👋
+# Hello! 👋
 
-## Eu sou o João Vitor
+## I'm João Vitor
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**.
+A Full-Stack Developer based in Brazil.
 
-🚀 Atualmente focado em me tornar um **Desenvolvedor Full Stack**, construindo projetos com JavaScript e seu ecossistema.
+🚀 Building projects using JavaScript and its ecosystem.
 
-Tenho experiência com suporte técnico, infraestrutura e redes, mas hoje concentro meus estudos em desenvolvimento web moderno e criação de aplicações completas.
+I enjoy turning ideas into real-world applications and am passionate about solving problems through code.
 
+My technical skills include HTML, JavaScript, CSS, Node.js, Express, and REST APIs.
 
-## 🛠 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Next.js *(estudando)*
-- Node.js
-- Express
-- REST API
-
-### Banco de Dados
-- MySQL
-- MongoDB *(estudando)*
-- 
-
-## 🌎 Onde me encontrar
+It's easy to get in touch with me — here are my details:
 
 💼 LinkedIn:
 > linkedin.com/in/jo%C3%A3o-vitor-moura-21b7b4345/)
 
 📧 Email:
 > joaovitor079mm@gmail.com
-> 
 
-## Sobre mim
+## About Me
 
-- Meu sonho é ser referência no mundo do desenvolvimento
-- Estudo programação praticamente todos os dias.
-- Yasuo player (4.000h++)
-- Tenho um gato com um nome de filosofo, e uma com nome de trapstar
+- My dream is to become a leading figure in the development world.
+- I study programming practically every day.
+- Yasuo player (over 4,000 hours).
+- I have one cat named after a philosopher and another named after a trap artist.
